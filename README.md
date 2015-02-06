@@ -1,7 +1,5 @@
 # food-chain-lab
 
-# food-chain-lab
-
 This is a [cumulative song](http://en.wikipedia.org/wiki/Cumulative_song) of unknown origin.
 
 This is one of many common variants.
